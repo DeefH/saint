@@ -38,13 +38,9 @@ a:hover {
   transition: all 0.1  ease-in;
 }
 
-#tripp {
-    display: none;
-
-}
 
 body {
-background:url('https://data.whicdn.com/images/233439172/original.gif') repeat;
+background:url('https://res.cloudinary.com/hhberclba/image/upload/v1484247775/room/55ff3c599ada760300c04daf.gif') repeat;
 background-position:auto;
 background-size:cover;
 }
